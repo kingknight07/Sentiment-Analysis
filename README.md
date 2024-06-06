@@ -4,7 +4,7 @@ This Sentiment Analysis App is a GUI-based application that allows users to anal
 
 ## Image
 
-![App Screenshot](path/to/your/image.png)
+![App Screenshot](SS.png)
 
 ## Features
 

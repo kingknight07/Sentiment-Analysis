@@ -29,7 +29,7 @@ This Sentiment Analysis App is a GUI-based application that allows users to anal
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/yourusername/sentiment-analysis-app.git
+    git clone https:/kingknight07/github.com//sentiment-analysis-app.git
     cd sentiment-analysis-app
     ```
 
